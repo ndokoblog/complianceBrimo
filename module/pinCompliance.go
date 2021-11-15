@@ -1,8 +1,8 @@
 package module
 
 import (
-	"github.com/addonrizky/complianceBrimo/model"
-	"github.com/addonrizky/complianceBrimo/rule"
+	"github.com/ndokoblog/complianceBrimo/model"
+	"github.com/ndokoblog/complianceBrimo/rule"
 )
 
 func ComplyPin(username string, usernameAlias string, pin string) model.Validation {

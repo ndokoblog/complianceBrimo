@@ -3,8 +3,8 @@ package module
 import (
 	"strings"
 
-	"github.com/addonrizky/complianceBrimo/model"
-	"github.com/addonrizky/complianceBrimo/rule"
+	"github.com/ndokoblog/complianceBrimo/model"
+	"github.com/ndokoblog/complianceBrimo/rule"
 )
 
 func ComplyPassword(username string, usernameAlias string, password string, channel string) model.Validation {

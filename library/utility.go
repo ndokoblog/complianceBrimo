@@ -2,7 +2,8 @@ package library
 
 import (
 	"time"
-	"github.com/addonrizky/complianceBrimo/model"
+
+	"github.com/ndokoblog/complianceBrimo/model"
 )
 
 func StringInSlice(a string, list []string) bool {

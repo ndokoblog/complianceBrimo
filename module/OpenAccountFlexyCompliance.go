@@ -1,12 +1,12 @@
 package module
 import (
 	"encoding/json"
-	"time"
 	"strconv"
+	"time"
 
-	"github.com/addonrizky/complianceBrimo/library"
-	"github.com/addonrizky/complianceBrimo/model"
-	"github.com/addonrizky/complianceBrimo/constant"
+	"github.com/ndokoblog/complianceBrimo/constant"
+	"github.com/ndokoblog/complianceBrimo/library"
+	"github.com/ndokoblog/complianceBrimo/model"
 )
 
 func ComplyOpenAccFlexyRequest(

@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/addonrizky/complianceBrimo/module"
-	"github.com/addonrizky/complianceBrimo/rule"
+	"github.com/ndokoblog/complianceBrimo/module"
+	"github.com/ndokoblog/complianceBrimo/rule"
 )
 
 func main() {
